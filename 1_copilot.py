@@ -1,4 +1,4 @@
-students = ["Jon", "Kim", "Lee"]
+students = ("Jon", "Kim", "Lee")
 
 def greet_students(student_list):
 	for name in student_list:
