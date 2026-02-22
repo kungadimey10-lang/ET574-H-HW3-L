@@ -13,3 +13,13 @@ def greet_students(student_list):
 # run the greeting with the updated list
 
 greet_students(students)
+
+
+
+students[1] = "John"
+
+
+greet_students(students)
+
+
+
